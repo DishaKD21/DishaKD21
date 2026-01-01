@@ -1,8 +1,7 @@
 <h1 align="center">Hello there! I am Disha Vadoliya</h1>
 
 # 💫 About Me:
-I am currently working on learning Data Structures And Algorithm <br>Here I regularly Upload solution of Data Structure Problems of Leetcode
-
+I am currently learning Data Structures and Algorithms and regularly upload my LeetCode problem solutions. At the same time, I am working on MERN full-stack development by building projects and updating my progress continuously.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/disha-vadoliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Disha Vadoliya" height="30" width="40" /></a>
